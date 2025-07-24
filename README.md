@@ -1,7 +1,7 @@
 🌱 NurseryForm
 A simple, user-friendly plant order form designed for Abhishek Nursery, where customers can easily place plant orders by providing their personal and delivery details.
 
-🔗 Live Demo: Click here to view
+🔗 Live Demo: https://abhi7559.github.io/-NurseryForm/
 
 📌 Features
 Collects customer details (name, contact info, email)
