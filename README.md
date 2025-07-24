@@ -1,5 +1,5 @@
 🌱 NurseryForm
-A simple, user-friendly plant order form designed for Dhvya Nursery, where customers can easily place plant orders by providing their personal and delivery details.
+A simple, user-friendly plant order form designed for Abhishek Nursery, where customers can easily place plant orders by providing their personal and delivery details.
 
 🔗 Live Demo: Click here to view
 
